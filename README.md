@@ -99,6 +99,28 @@ Screenshots of User stories of what a user wants from the Positive Peep Applicat
 ![User Stories4](docs/trello_user_stories/user_story4.png)
 ![User Stories5](docs/trello_user_stories/user_story5.png)
 
+### Task Management with Trello
+
+List of tasks for T4A2- A and the start of tasks for the upcoming assignment T4A2 -B
+
+![Task1](docs/trello_tasks/task1.png)
+![Task2](docs/trello_tasks/task2.png)
+![Task3](docs/trello_tasks/task3.png)
+![Task4](docs/trello_tasks/task4.png)
+![Task5](docs/trello_tasks/task5.png)
+![Task6](docs/trello_tasks/task6.png)
+![Task7](docs/trello_tasks/task7.png)
+![Task8](docs/trello_tasks/task8.png)
+![Task9](docs/trello_tasks/task9.png)
+![Task10](docs/trello_tasks/task10.png)
+![Task11](docs/trello_tasks/task11.png)
+![Task12](docs/trello_tasks/task12.png)
+![Task13](docs/trello_tasks/task13.png)
+
+
+
+
+
 
 
 
